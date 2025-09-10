@@ -68,8 +68,9 @@ Two predictive models were implemented:
 - Python  
 - Pandas, NumPy  
 - Matplotlib, Seaborn
-- Scikit-learn
-- Statsmodels
+- Scikit-learn (including LogisticRegression, DecisionTreeClassifier, plot_tree, train_test_split, GridSearchCV, StandardScaler, LabelEncoder, confusion_matrix, classification_report, roc_auc_score, roc_curve, precision_recall_curve, f1_score)
+- Statsmodels (specifically variance_inflation_factor)
+- warnings (for suppressing unnecessary warnings)
   
 ---
 
