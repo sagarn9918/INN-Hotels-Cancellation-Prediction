@@ -66,8 +66,6 @@ Two predictive models were implemented:
 
 ## 🛠 Technologies Used
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
-- Jupyter Notebook
-- Git & GitHub
   
 ---
 
