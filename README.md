@@ -64,14 +64,16 @@ Two predictive models were implemented:
 
 ---
 
-## 🛠 Technologies Used
-- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+## 🛠️ Tools & Libraries
+- Python  
+- Pandas, NumPy  
+- Matplotlib, Seaborn
+- Scikit-learn
+- Statsmodels
   
 ---
 
 ## ▶ How to Run
-
-### 1. Clone the repository
+1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/inn-hotels-cancellation.git
-cd inn-hotels-cancellation
